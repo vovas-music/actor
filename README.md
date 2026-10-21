@@ -7,7 +7,7 @@ On the site: https://vovazakharov.com/music/actor
 ## Files
 
 - `actor_mix.mp3` — the mix, unmastered: what the master was made from.
-- `actor.mp3` — the master. The mix survives only as an mp3, so the master is one too.
+- `Полуживые - Актёр.mp3` — the master. The mix survives only as an mp3, so the master is one too.
 - `mastering/` — the script that made the master: `master.py`, the `spectrum.py` it imports, and their `requirements.txt`.
 
 ## How it was mastered
